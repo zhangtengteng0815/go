@@ -31,6 +31,8 @@ func (s stuents) Swap(i, j int){
 	s[i],s[j]=s[j],s[i]
 }
 
+
+
 func main(){
 
 	var stus stuents
